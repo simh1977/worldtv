@@ -1,6 +1,8 @@
 #EXTM3U 
 EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVA_540x540.png?raw=true" group-title="Canadian TV",TVA 
 https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
+EXTINF:-1 LCN
+https://tvalcn.akamaized.net/hls/live/2013847/tvalcn01/med_720p/med_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/1K3QTV0.png" group-title="",Hebdo TV
 https://hbiptv.live/live/hebdotvcom/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/fPJqdGy.png" group-title="",Impact TV
