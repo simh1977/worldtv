@@ -12,7 +12,6 @@ https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/61016
 https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd
 #EXTINF:-1 tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/TSC-Canada.png" group-title="Canadian TV",The Shopping Channel
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-
 #EXTINF:-1 tvg-id="TVA (SD)" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/tva.png" tvg-name="TVA (SD)" group-title="Canadian TV",TVA (SD)
 https://tvalive.akamaized.net/hls/live/2012413/tva01/low_720p/low_720p.m3u8
 #EXTINF:-1 tvg-id="TVA (MED)" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/tva.png" tvg-name="TVA (MED)" group-title="Canadian TV",TVA (MED)
@@ -75,9 +74,6 @@ https://stream.ecable.tv/afrobeats/index.m3u8
 FOX SPORT HD LIVE
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720_v3.m3u8
 
-##### NEWS
-#EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/tva.png" tvg-name="ESPN2" group-title="News",ESPN2
-http://hls.123tv.live/ch/B-UnD8vTXGcSellmKwDsFA/1625372842/espn2.m3u8
 
 ##### FILMS
 
