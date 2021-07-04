@@ -1,0 +1,123 @@
+#EXTM3U
+
+##### CANADA
+
+#EXTINF:-1 tvg-id="ICI RDI"tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/ICI-RDI.png" group-title="Canadian TV",ICI RDI (French News)
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
+#EXTINF:-1 tvg-id="ICI TeLe" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/ICI-Tele-v2.png" group-title="Canadian TV",ICI Tele (Montreal) (Geo)
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
+#EXTINF:-1 tvg-id="Tele Quebec"tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/TeleQuebecCA.png" group-title="Canadian TV",Tele-Quebec
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+#EXTINF:-1 tvg-id="Tele V" tvg-logo="https://images2.9c9media.com/image_asset/2021_6_1_d1cd0c5e-77c9-429f-818b-b4643d8b61a6_png_2000x1125.jpg?width=640&maintain_aspect=1" group-title="Canadian TV",Tele-V
+https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd
+#EXTINF:-1 tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/TSC-Canada.png" group-title="Canadian TV",The Shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+
+#EXTINF:-1 tvg-id="TVA (SD)" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/tva.png" tvg-name="TVA (SD)" group-title="Canadian TV",TVA (SD)
+https://tvalive.akamaized.net/hls/live/2012413/tva01/low_720p/low_720p.m3u8
+#EXTINF:-1 tvg-id="TVA (MED)" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/tva.png" tvg-name="TVA (MED)" group-title="Canadian TV",TVA (MED)
+https://tvalive.akamaized.net/hls/live/2012413/tva01/med_720p/med_720p.m3u8
+#EXTINF:-1 tvg-id="TVA (HD)" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/tva.png" tvg-name="TVA (HD)" group-title="Canadian TV",TVA (HD)
+https://tvalive.akamaized.net/hls/live/2012413/tva01/high_1080p/high_1080p.m3u8
+
+##### HAITI
+
+#EXTINF:-1 [COLOR red]HAITI CHANNELS[/COLOR]
+#EXTINF:-1,TELE Haiti
+http://66.175.238.147:1935/live/myStream/chunklist_w1131641404.m3u8
+#EXTINF:-1 tvg-id="CPAM TV" tvg-logo="http://www.cpam1410.com/wp-content/uploads/2018/11/cpamlogoFinal.png" tvg-name="CPAM TV" group-title="HAITI TV",CPAM TV
+http://cpamlivetv.srfms.com:1935/cpamlivetv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="THM TV" tvg-logo="http://sakapfet.ca/thmtl/logo.png" tvg-name="THM TV" group-title="HAITI TV",THM TV
+http://rthm.srfms.com:1935/RTHM/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Tele Boston" tvg-logo="https://m.andirek.tv/uploads/tv_image/tele-boston.png" tvg-name="Tele Boston" group-title="HAITI TV",Tele Boston
+http://162.244.81.145:3333/live/telebostonrtb/playlist.m3u8
+#EXTINF:-1 tvg-id="KAJOUTV" tvg-logo="https://m.andirek.tv/uploads/tv_image/kajou-tv.png" tvg-name="KAJOUTV" group-title="HAITI TV",KAJOU TV
+https://video1.getstreamhosting.com:1936/8055/8055/chunklist_w2132962793.m3u8
+#EXTINF:-1 tvg-id="TELEMIX" tvg-logo="https://image.roku.com/developer_channels/prod/394244978d09c760324d5117c0ddad8042a71f6b5b2ec04ab7dde31dc6e94ffa.png" tvg-name="TELEMIX" group-title="HAITI TV",TELEMIX
+http://haititivi.com:8088/haiti/telemix1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NAGO TV" tvg-logo="https://m.andirek.tv/uploads/tv_image/nago-tv.jpg" tvg-name="NAGO TV" group-title="HAITI TV",NAGO TV
+https://gintna100.tulix.tv/gin_live/nagotv/212234cf445f5dd4dd8541e90e9e4cd3/60d7c7e3/index.m3u8
+#EXTINF:-1 tvg-id="Tele Louange" tvg-logo="https://m.andirek.tv/uploads/tv_image/tele-louange.jpg" tvg-name="KAJOUTV" group-title="HAITI TV",Tele Louange
+https://5790d294af2dc.streamlock.net/8124/8124/chunklist_w2100500823.m3u8
+
+##### HAITI MUSIC
+
+#EXTINF:-1,MUSIC CHOICE
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1,PLANET KOMPA
+http://mrcompas2.srfms.com:1935/mrcompas2/planet/playlist.m3u8
+#EXTINF:-1, TELE HIRONDEL
+https://hbiptv.live/Watch/Online/TV/hirondelle/tracks-v1a1/mono.m3u8
+#EXTINF:-1, RADIO TELE ECLAIRE
+https://hbiptv.live/Watch/Online/TV/eclair/tracks-v1a1/mono.m3u8
+#EXTINF:-1, TELE METROPOLE
+https://hbiptv.live/Watch/Online/TV/ginen/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Tele Louange" tvg-logo="https://m.andirek.tv/uploads/tv_image/tele-louange.jpg" tvg-name="KAJOUTV" group-title="HAITI TV",Tele Louange
+https://5790d294af2dc.streamlock.net/8124/8124/chunklist_w719568142.m3u8
+#EXTINF:-1, TELE SOLEIL
+https://hbiptv.live/Watch/Online/TV/soleil/tracks-v1a1/mono.m3u8
+#EXTINF:-1, AFRICA GOSPEL
+https://edge9.vedge.infomaniak.com/livecast/ik:africagospeltv/manifest.m3u8?spark=df9f996b-68d4-4bf7-a830-ec0c0834a8e6&token=
+#EXTINF:-1  tvg-id="Tele puissance" tvg-logo="https://m.andirek.tv/uploads/tv_image/tele-puissance.jpg" tvg-name="Tele puissance" group-title="HAITI TV",Tele puissance
+https://video1.getstreamhosting.com:1936/8560/8560/chunklist_w1726611939.m3u8
+#EXTINF:-1,TELE FIDEL
+https://59d39900ebfb8.streamlock.net/FIDELETV/FIDELETV/chunklist_w599247893.m3u8
+#EXTINF:-1, GOSPEL TV HAITI
+https://5790d294af2dc.streamlock.net/8260/8260/chunklist_w1256022616.m3u8
+#EXTINF:-1,My COMEDY TV
+http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1346768221_b1928000.m3u8
+#EXTINF:-1,  FLIX HD MOVIES
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1, TOP MUSIC
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1, Afrobeats
+https://stream.ecable.tv/afrobeats/index.m3u8
+FOX SPORT HD LIVE
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720_v3.m3u8
+
+##### NEWS
+#EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/tva.png" tvg-name="ESPN2" group-title="News",ESPN2
+http://hls.123tv.live/ch/B-UnD8vTXGcSellmKwDsFA/1625372842/espn2.m3u8
+
+##### FILMS
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwMTM2ODJf/FilmRise_Free-Movies_300x300.png" group-title="FilmRise Digital Networks",FilmRise | Free Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwMTM2OTNf/FilmRise_Classic-TV_300x300.png" group-title="FilmRise Digital Networks",FilmRise | Classic TV
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwMTM4NzVf/FilmRise_Family_355x355.png" group-title="FilmRise Digital Networks",FilmRise | Family
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwMjQ1NDNf/FilmRise_Heartland_332x332.png" group-title="FilmRise Digital Networks",FilmRise | CBC's Heartland
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuheartland/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzUyOTMzMDFf/FilmRise_Sci-Fi_355x355.png" group-title="FilmRise Digital Networks",FilmRise | Sci-Fi
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwMjM0NDRf/FilmRise_Action_500x500.png" group-title="FilmRise Digital Networks",FilmRise | Action
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwMjM2MDJf/FilmRise_HellsKitchen_500x500.png" group-title="FilmRise Digital Networks",FilmRise | Hell's Kitchen
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecooking/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwMjM5NTJf/Filmrise_UnsMys_900x900.png" group-title="FilmRise Digital Networks",FilmRise | Unsolved Mysteries
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwMjQwOTBf/FilmRise_ForensicFiles_398x398.png" group-title="FilmRise Digital Networks",FilmRise | Forensic Files
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/master.m3u8
+
+##### Music Videos
+
+#EXTINF:-1 tvg-id="827f7a" tvg-name="Loop_Hip_Hop" tvg-chno="832" group-title="EPG | Plex Live TV" tvg-logo="https://i.imgur.com/yW7WCPm.png",Loop Hip Hop 
+https://e20b86263a38460ba3647b18fb150000.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hip_hop_bangers_plex/master.m3u8
+#EXTINF:-1 tvg-id="51ea21" tvg-name="Loop_R&B" tvg-chno="833" group-title="EPG | Plex Live TV" tvg-logo="https://i.imgur.com/uklxQzX.png",Loop R&B 
+https://d9a00e6bdafb4f9db9b446ae03b14f4b.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hot_rnb_plex/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",USA | Stingray Hip Hop R&B
+https://a.jsrdn.com/broadcast/bmv03kv86/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",USA | Stingray Greatest Hits
+https://a.jsrdn.com/broadcast/jgc93xp5z7/c.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Redbox Free Live TV",Redbox | Vevo Pop
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Redbox Free Live TV",Redbox | Vevo 80s
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+
+##### SPORTS
+
+#EXTINF:-1 tvg-id="MLS" tvg-name="MLS" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/6t7x61s.png" group-title="Sports",Pluto TV MLS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1 tvg-id="MLS.us" tvg-name="MLS" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5cb626cfcaf83414128f439c/colorLogoPNG.png" group-title="Sports",Pluto TV MLS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
