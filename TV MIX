@@ -18,6 +18,8 @@ https://tvalive.akamaized.net/hls/live/2012413/tva01/low_720p/low_720p.m3u8
 https://tvalive.akamaized.net/hls/live/2012413/tva01/med_720p/med_720p.m3u8
 #EXTINF:-1 tvg-id="TVA (HD)" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/tva.png" tvg-name="TVA (HD)" group-title="Canadian TV",TVA (HD)
 https://tvalive.akamaized.net/hls/live/2012413/tva01/high_1080p/high_1080p.m3u8
+#EXTINF:-1 tvg-id="KIDS TV" tvg-logo="http://www.centraltv.fr/wp-content/uploads/3abn-kids_logo.jpg" tvg-name="KIDS TV" group-title="Canadian TV",KIDS TV
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 
 ##### HAITI
 
