@@ -40,6 +40,8 @@ http://haititivi.com:8088/haiti/telemix1/tracks-v1a1/mono.m3u8
 https://gintna100.tulix.tv/gin_live/nagotv/212234cf445f5dd4dd8541e90e9e4cd3/60d7c7e3/index.m3u8
 #EXTINF:-1 tvg-id="Tele Louange" tvg-logo="https://m.andirek.tv/uploads/tv_image/tele-louange.jpg" tvg-name="KAJOUTV" group-title="HAITI TV",Tele Louange
 https://5790d294af2dc.streamlock.net/8124/8124/chunklist_w2100500823.m3u8
+#EXTINF:-1 tvg-id="TV CARAIBE" tvg-logo="https://haitibroadcasting.sirv.com/WP_haitibroadcasting.com/2020/09/rtvc-1.jpg" tvg-name="TV CARAIBE" group-title="HAITI TV",TV CARAIBE
+https://stream-03.nyc.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpthirBj_GwNvPF3MMrCVVVw)/dm/3/x81lgjh/d/live-0.m3u8
 
 ##### HAITI MUSIC
 
