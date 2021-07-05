@@ -42,6 +42,8 @@ https://gintna100.tulix.tv/gin_live/nagotv/212234cf445f5dd4dd8541e90e9e4cd3/60d7
 https://5790d294af2dc.streamlock.net/8124/8124/chunklist_w2100500823.m3u8
 #EXTINF:-1 tvg-id="TV CARAIBE" tvg-logo="https://haitibroadcasting.sirv.com/WP_haitibroadcasting.com/2020/09/rtvc-1.jpg" tvg-name="TV CARAIBE" group-title="HAITI TV",TV CARAIBE
 https://stream-03.nyc.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpthirBj_GwNvPF3MMrCVVVw)/dm/3/x81lgjh/d/live-0.m3u8
+#EXTINF:-1 tvg-id="Teletripotay" tvg-logo="http://www.tripotaylakay.com/wp-content/uploads/2019/10/cropped-157124446913391643.png" tvg-name="Teletripotay" group-title="HAITI TV",Teletripotay
+http://server.teletripotay.com/tripotay2a/tracks-v1a1/mono.m3u8
 
 ##### HAITI MUSIC
 
